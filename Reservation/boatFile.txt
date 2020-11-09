@@ -1,0 +1,10 @@
+kayak
+rowboat
+submarine
+yacht
+speedboat
+aircraft carrier
+pedalboat
+canoe
+zodiak
+dinghy
